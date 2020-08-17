@@ -11,7 +11,7 @@
     "prepack": "npm run build"
   },
   "devDependencies": {
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^26.0.10",
     "@types/node": "^13.13.0",
     "bent": "^7.3.0",
     "jest": "^25.3.0",
