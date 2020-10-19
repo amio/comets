@@ -3,7 +3,7 @@
 [![npm version][npm-src]][npm-href]
 [![package size][size-src]][size-href]
 
-Create a one-off server for testing http request listener.
+Create a one-off server from http request handler for testing.
 
 ## Usage
 
